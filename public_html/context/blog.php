@@ -47,6 +47,11 @@
             'class' => 'blog-photo-item',
             'img' => 'images/11.png',
         ],
+        [
+            'class' => 'blog-photo-item',
+            'subclass' => 'blog-photo-4x2',
+            'img' => 'images/11.png',
+        ],
     ],
 ];
 ?>
